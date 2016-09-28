@@ -4,7 +4,7 @@ using System;
 
 public class FBX_Import : AssetPostprocessor {
 
-    public const float importScale = 10.0f;
+    public const float importScale = 25.0f;
 
     void OnPreprocessModel()
     {
